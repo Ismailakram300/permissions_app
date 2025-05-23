@@ -14,6 +14,7 @@ class _PermissionScreenState extends State<PermissionScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text(widget.title)),
+      ),
       body: Center(
         child: Column(
           // wireframe for each widget.
